@@ -1,0 +1,5 @@
+[custom-repo]
+name=CUSTOM REPO
+baseurl=https://username.github.io/repo-name/
+enabled=1
+gpgcheck=0
