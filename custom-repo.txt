@@ -1,5 +1,5 @@
 [custom-repo]
 name=CUSTOM REPO
-baseurl=https://username.github.io/repo-name/
+baseurl=http://itou332-github-io.pages.dev/linux_test/
 enabled=1
 gpgcheck=0
