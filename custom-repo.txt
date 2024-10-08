@@ -1,5 +1,0 @@
-[custom-repo]
-name=CUSTOM REPO
-baseurl=http://itou332-github-io.pages.dev/linux_test/
-enabled=1
-gpgcheck=0
